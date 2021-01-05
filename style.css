@@ -334,13 +334,13 @@ body{
   position: absolute;
   margin: 20px;
   width: auto;
-  margin-bottom: 20px;
 }
 
 /* The navbar */
 .topnav {
   overflow: hidden;
   background-color: #333;
+  margin-bottom: 20px;
 }
 
 /* Navbar links */
