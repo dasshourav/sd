@@ -317,9 +317,6 @@ body{
   min-height: 600px;
   width: 100%;
 
-  
-
-
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
@@ -340,7 +337,7 @@ body{
 .topnav {
   overflow: hidden;
   background-color: #333;
-  margin-bottom: 200px;
+ 
 }
 
 /* Navbar links */
