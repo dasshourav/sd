@@ -299,6 +299,12 @@ body{
   margin-bottom: 15em;
 }
 
+h2{
+  text-align: center;
+  margin-top: 2.5em;
+
+}
+
 .footer{
     color: #ffffff;
     text-decoration: none !important;
