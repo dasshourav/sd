@@ -334,6 +334,7 @@ body{
   position: absolute;
   margin: 20px;
   width: auto;
+  margin-bottom: 20px;
 }
 
 /* The navbar */
